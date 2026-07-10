@@ -1,0 +1,14 @@
+{
+  "name": "ReyCloud Theme",
+  "version": "1.0.0",
+  "developer": "ReyCloud Project",
+  "mode": "dark",
+  "background": "",
+  "video": "",
+  "blur": 10,
+  "brightness": 75,
+  "overlay": 40,
+  "animation": true,
+  "accent": "#3B82F6",
+  "glass": true
+}
